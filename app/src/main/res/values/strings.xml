@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">JRT Distance Measure</string>
+    <string name="connect">Bağlan</string>
+    <string name="disconnect">Bağlantıyı Kes</string>
+    <string name="distance">Mesafe (mm)</string>
+    <string name="signal_quality">Sinyal Değeri</string>
+    <string name="signal_quality_note">Düşük sinyal değeri daha doğru sonuç demektir</string>
+    <string name="raw_data">Alınan Ham Veri</string>
+    <string name="status">Durum/Sonuç/Hata</string>
+    <string name="get_status">DURUM</string>
+    <string name="sensor_info">SENSOR BILGI</string>
+    <string name="open_laser">LAZER AÇ</string>
+    <string name="close_laser">LAZER KAPAT</string>
+    <string name="start_continuous">SÜREKLİ ÖLÇÜM AÇ</string>
+    <string name="stop_continuous">SÜREKLİ ÖLÇÜM KAPAT</string>
+    <string name="single_measurement">TEK ÖLÇÜM</string>
+</resources>
